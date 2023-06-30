@@ -1,14 +1,14 @@
 # LLynx Quickstart
 
-This repo intends to show off the capabilities of using LLynx api with agents.  LLynx api and agents are still in alpha and for right now this quickstart app only supports Google Calander.
+This repo intends to show off the capabilities of using LLynx API with agents.  LLynx API and agents are still in alpha and for right now this quickstart app only supports Google Calander.
 
 </br>
 
 ## Requirments:
 
 - Node 18 or later
-- OpenAI api key
-- Google OAuth setup. <a href="https://github.com/llynxai/agents" target="_blank">See instructions for OAuth here</a>
+- OpenAI API key
+- Google OAuth setup. <a href="https://agents.llynx.ai/agents" target="_blank">Log in here with the email you registered to get a LLynx API key for.</a>
 
 </br>
 
