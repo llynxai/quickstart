@@ -1,0 +1,14 @@
+{
+  "name": "@llynxai/quickstart",
+  "version": "0.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+    "@types/node": "^20.3.2"
+  },
+  "dependencies": {
+    "@llynxai/agents": "^0.1.12",
+    "axios":"1.4.0"
+  }
+}
